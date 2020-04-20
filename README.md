@@ -37,5 +37,5 @@ After running the installation script (install.sh), the python script that produ
 ## Outputs
 Final MP4 video will include only presentation, audio and screenshare (no chat window, no whiteboard).
 
-Link to download MP4 file will look like this: https://yourBBBserverURL/download/presentation/{meetingID}/{meetingID}.mp4
+Link to download MP4 file will look like this: https://yourBBBserverURL/download/presentation/{recordID}/{recordID}.mp4
 If your BigBlueButton server is connected to https://createwebinar.com contol panel, all webinar participants will be able to download the recorded webinars from the website in one click.
